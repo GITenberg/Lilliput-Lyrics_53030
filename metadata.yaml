@@ -7,6 +7,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '31464'
     url: http://www.gutenberg.org/2009/agents/31464
+covers:
+- cover_type: archival
+  image_path: 53030-h/images/cover.jpg
 creator:
   author:
     agent_name: Rands, W. B. (William Brighty )
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '3902'
     url: http://www.gutenberg.org/2009/agents/3902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53030#Lilliput-Lyrics
 gutenberg_issued: '2016-09-11'
 gutenberg_type: Text
 identifiers:
